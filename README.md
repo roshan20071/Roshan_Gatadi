@@ -46,11 +46,6 @@ I build end-to-end web applications, data intelligence pipelines, and developer 
 - Designed an interactive analytics console visualizing expense trajectories and predictive burn-rate metrics.
 - **Stack:** `Python` `Scikit-Learn` `Pandas` `Streamlit` `FastAPI`
 
-#### 4. [Homewix Atelier — Custom Couture E-Commerce Platform](https://github.com/roshan20071)
-> Full-stack bespoke commerce engine built for custom tailoring workflows and measurement collection.
-- Engineered secure role-based JWT authentication, order state management, and inventory catalog schemas.
-- Built dynamic measurement capture forms paired with responsive product showcase interfaces.
-- **Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
 
 ---
 
